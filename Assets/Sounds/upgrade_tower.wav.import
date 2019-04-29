@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/upgrade_tower.wav-b6d436a8a99934dc0d8e792942defdf6.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/upgrade_tower.wav"
+dest_files=[ "res://.import/upgrade_tower.wav-b6d436a8a99934dc0d8e792942defdf6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

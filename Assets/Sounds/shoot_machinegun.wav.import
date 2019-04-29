@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shoot_machinegun.wav-bc20bbe73bf9e114c944f549f02dacd8.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/shoot_machinegun.wav"
+dest_files=[ "res://.import/shoot_machinegun.wav-bc20bbe73bf9e114c944f549f02dacd8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
